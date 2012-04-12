@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">YouSuck</string>
+	<string name="get_liek_me">Get like me nerdos epic epic</string>
+	<string name="my_hint">Character name</string>
+	<string name="button_text">Find Picture!</string>
+	<string name="new_screen_button">Change Screens!</string>
+	<string name="holy_shit">holy shit</string>
+    
+</resources>
