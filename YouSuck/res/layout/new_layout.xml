@@ -4,12 +4,25 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
     
-    <TextView android:layout_width="wrap_content"
+    <TextView android:id="@+id/holy_shit_textview"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/holy_shit"
         android:textSize="40sp"
         android:layout_margin="30dp"
         android:textColor="@color/white"
         android:layout_gravity="center"/>
+    
+    <ImageButton android:id="@+id/player_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_media_play"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="15dp"/>
+    
+    <Button android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
 
 </LinearLayout>

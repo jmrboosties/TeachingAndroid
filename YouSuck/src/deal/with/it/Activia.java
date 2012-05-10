@@ -68,7 +68,7 @@ public class Activia extends Activity implements OnClickListener {
 			mEditText.setText("");
 			break;
 		case R.id.switch_screen_button :
-			Intent intent = new Intent(this, CoolerActivity.class);
+			Intent intent = new Intent(this, WebActivity.class);
 			startActivity(intent);
 			break;
 		}

@@ -8,5 +8,7 @@
 	<string name="button_text">Find Picture!</string>
 	<string name="new_screen_button">Change Screens!</string>
 	<string name="holy_shit">holy shit</string>
+	<string name="no_connection">Press the button to connect.</string>
+	<string name="connect">Connect</string>
     
 </resources>
